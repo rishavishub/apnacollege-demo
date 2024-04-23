@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repo.
 <br>
-Author; Rishav
+Author; Mr Rishav
